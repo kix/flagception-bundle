@@ -1,3 +1,7 @@
+## Unreleased
+### Added
+- \#30 Add [user role activator](docs/role.md) @migo315
+
 ## [3.1.0]
 ### Fix
 - \#27 Fix route xml in documentation @migo315
